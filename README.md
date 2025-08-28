@@ -1,8 +1,8 @@
 ## Hi there 👋
 <p align="center">
-<img src="./assets/my_pic.jpeg" alt="a pic of a career baddie" width="300">
-<a href="https://linkedin.com/in/yourprofile">🌱 My LinkedIn</a><br>
-<a href="rosinazhounyc@gmail.com"> Contact Me! </a>
+<img src="./assets/my_pic.jpeg" alt="a pic of a career baddie" width="300"><br>
+<a href="www.linkedin.com/in/rosinaz">🌱 My LinkedIn</a><br>
+[Email Me](mailto:rosinazhounyc@gmail.com)
 </p>
 
 ## About Me
