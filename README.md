@@ -1,4 +1,8 @@
 ## Hi there 👋
+![Alt text]()
+
+## Connect with Me
+[LinkedIn](https://www.linkedin.com/in/yourprofile)
 
 <!--
 **Shampoopoooo/Shampoopoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
