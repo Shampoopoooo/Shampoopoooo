@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
-<img src="./assets/my_pic" alt="Alt text" width="300">
-<a href="https://linkedin.com/in/yourprofile">🌱 My LinkedIn</a>
+<img src="./assets/my_pic.jpeg" alt="a pic of a career baddie" width="300">
+<a href="https://linkedin.com/in/yourprofile">🌱 My LinkedIn</a><br>
 <a href="rosinazhounyc@gmail.com"> Contact Me! </a>
 </p>
 
@@ -21,7 +21,7 @@
 - 🌱 Learning React and improving my web dev skills
 
 
-\
+
 
 <!--
 **Shampoopoooo/Shampoopoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
